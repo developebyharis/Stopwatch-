@@ -1,0 +1,13 @@
+span {
+    font-size: 40px;
+}
+.heading {
+    font-weight: bold;
+    
+}
+.buttons {
+    padding: 10px;
+}
+button {
+    margin-right: 20px;
+}
